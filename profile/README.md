@@ -9,7 +9,7 @@
 
 Organization의 원활한 운영을 위해 아래 문서의 내용을 반드시 숙지해 주시기 바랍니다:
 
-📎 [CSID-DGU GitHub 운영 가이드](https://docs.google.com/document/d/1KkMaULZCMz95xeQ604LmFsPiUgrKJgaximjby92eM9g/edit?usp=sharing)
+📎 [CSID-DGU GitHub 운영 가이드](https://github.com/CSID-DGU/admin/blob/main/GitHub-Guide-20250624.pdf)
 
 ---
 
