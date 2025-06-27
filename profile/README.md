@@ -24,10 +24,10 @@ Organization의 원활한 운영을 위해 아래 문서의 내용을 반드시 
 
 아래 항목에 해당하는 요청은 반드시 GitHub Discussions 탭을 통해 접수해 주십시오.
 
-- 앱 설치 요청 (예: GitHub App, Marketplace App 설치)
-- 권한 변경 요청 (예: Owner → Member 권한 변경)
+- 앱 설치 요청 ➡ App-Installation 카테고리
+- 권한 변경 요청 ➡ Role-Change 카테고리
 
-Discussions 탭 내 제공되는 템플릿을 활용하여 정확한 양식에 맞춰 요청을 등록해 주시기 바랍니다.
+Discussions 탭 내 제공되는 카테고리와 템플릿을 활용하여 정확한 양식에 맞춰 요청을 등록해 주시기 바랍니다.
 
 ---
 
