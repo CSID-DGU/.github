@@ -14,8 +14,6 @@ Organization의 원활한 운영을 위해 아래 문서의 내용을 반드시 
 - 🔗 [바로 보기](https://cdn.jsdelivr.net/gh/CSID-DGU/admin@main/Prof-TA-CSID-DGU-Guide.pdf)
 - 💾 [PDF 다운로드](https://github.com/CSID-DGU/admin/raw/main/Prof-TA-CSID-DGU-Guide.pdf)
 
----
-
 ### [수강생용] CSID-DGU GitHub 운영 가이드
 
 - 🔗 [바로 보기](https://cdn.jsdelivr.net/gh/CSID-DGU/admin@main/Student-CSID-DGU-Guide.pdf)
