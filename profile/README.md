@@ -9,9 +9,8 @@
 
 Organization의 원활한 운영을 위해 아래 문서의 내용을 반드시 숙지해 주시기 바랍니다:
 
-📎 [[교수/TA용] CSID-DGU GitHub 운영 가이드](https://github.com/CSID-DGU/admin/raw/main/Prof-TA-CSID-DGU-Guide.pdf)
-
-📎 [[수강생용] CSID-DGU GitHub 운영 가이드](https://github.com/CSID-DGU/admin/raw/main/Student-CSID-DGU-Guide.pdf)
+📎 [[교수/TA용] CSID-DGU GitHub 운영 가이드](https://cdn.jsdelivr.net/gh/CSID-DGU/admin@main/Prof-TA-CSID-DGU-Guide.pdf)  
+📎 [[수강생용] CSID-DGU GitHub 운영 가이드](https://cdn.jsdelivr.net/gh/CSID-DGU/admin@main/Student-CSID-DGU-Guide.pdf)
 
 ---
 
